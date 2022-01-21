@@ -6,10 +6,10 @@ A colorado Board of Elections employee has gived you the following task to compl
 2. Get a complete list of counties
 3. Calculate the total number of votes in each county.
 4. Calculate the percentage of voter in each county.
-5. Determine the largest countr of the election based on vote count.
+5. Determine the largest county of the election based on vote count.
 6. Get a complete list of candidates and candidates who received votes.
 7. Calculate the total number of votes each candidate received.
-8. Calculate the percentage of voter each candidate won.
+8. Calculate the percentage of votes each candidate won.
 9. Determine the winner of the election based on popular vote. 
 
 ## Resources
@@ -24,13 +24,13 @@ The analysis of the election show that:
     - Jefferson
     - Denver
     - Arapahoe
-  - The counties result were:
+  - The counties results were:
     - Jefferson county recived 10.5% of the vote and 38,855 number of votes. 
     - Denver county recived 82.8% of the vote and 306,055 number of votes.
     - Arapahoe county recived 6.7% of the vote and 24,801 number of votes.
   - The largest county was Denver 
 - *Candidate:*
-  - The counties were:
+  - The Candidates were:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
@@ -39,7 +39,7 @@ The analysis of the election show that:
     - Diana DeGette recived 73.8% of the vote and 272,892 number of votes.
     - Raymon Anthony Doane recived 3.1% of the vote and 11,606 number of votes.
   - The winner of the election was: 
-    - Diana DeGette who recived 73.8% of the vote and 272,892 number of votes.
+    - Diana DeGette who recived 73.8% of the vote with 272,892 votes.
 ## Election-Audit Summary:
 This script can be used for any election by modifying the following:
 - The election result file and path
